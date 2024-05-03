@@ -14,5 +14,5 @@ Exif Data Extraction
 
 Hexadecimal Header and Footer Viewer
 
-# Dependencies
+### Dependencies
 PowerShell
