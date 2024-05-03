@@ -2,7 +2,7 @@
 #display exif
 Write-Host "Exif Data"
 #Choose filepath 
-$filePath = "C:\Users\wills\Pictures\image.png"
+$filePath = "pathToFile\image.png"
 
 #command
 Get-ItemProperty $filePath | Format-List *
