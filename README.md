@@ -13,3 +13,6 @@ Download the Script:
 Exif Data Extraction
 
 Hexadecimal Header and Footer Viewer
+
+# Dependencies
+PowerShell
